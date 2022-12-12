@@ -415,3 +415,8 @@ Authorized use of Microsoft trademarks or logos is subject to and must follow [M
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+wget  https://downloads.apache.org/spark/spark-3.3.1/spark-3.3.1-bin-hadoop3.tgz
+tar -xvf spark-3.3.1-bin-hadoop3.tgz
+mv spark-2.2.0-bin-hadoop2.7 spark
+PATH=/workspaces/bigdata-spark/spark/bin:$PATH
