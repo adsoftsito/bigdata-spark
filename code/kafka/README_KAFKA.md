@@ -1,4 +1,4 @@
-##Sesion 1
+# Sesion 1
 
 1. Instalar [github](https://git-scm.com/downloads)
 2. Repaso de comandos linux
